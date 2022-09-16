@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Recepi_Search_App/static/css/main.a4608ef7.chunk.css",
-    "main.js": "/Recepi_Search_App/static/js/main.92b9ab06.chunk.js",
-    "main.js.map": "/Recepi_Search_App/static/js/main.92b9ab06.chunk.js.map",
+    "main.css": "/Recepi_Search_App/static/css/main.2a408519.chunk.css",
+    "main.js": "/Recepi_Search_App/static/js/main.e7bb8b54.chunk.js",
+    "main.js.map": "/Recepi_Search_App/static/js/main.e7bb8b54.chunk.js.map",
     "runtime-main.js": "/Recepi_Search_App/static/js/runtime-main.77a768d0.js",
     "runtime-main.js.map": "/Recepi_Search_App/static/js/runtime-main.77a768d0.js.map",
-    "static/js/2.95dd5f23.chunk.js": "/Recepi_Search_App/static/js/2.95dd5f23.chunk.js",
-    "static/js/2.95dd5f23.chunk.js.map": "/Recepi_Search_App/static/js/2.95dd5f23.chunk.js.map",
+    "static/js/2.df64ee2e.chunk.js": "/Recepi_Search_App/static/js/2.df64ee2e.chunk.js",
+    "static/js/2.df64ee2e.chunk.js.map": "/Recepi_Search_App/static/js/2.df64ee2e.chunk.js.map",
     "index.html": "/Recepi_Search_App/index.html",
-    "static/css/main.a4608ef7.chunk.css.map": "/Recepi_Search_App/static/css/main.a4608ef7.chunk.css.map",
-    "static/js/2.95dd5f23.chunk.js.LICENSE.txt": "/Recepi_Search_App/static/js/2.95dd5f23.chunk.js.LICENSE.txt"
+    "static/css/main.2a408519.chunk.css.map": "/Recepi_Search_App/static/css/main.2a408519.chunk.css.map",
+    "static/js/2.df64ee2e.chunk.js.LICENSE.txt": "/Recepi_Search_App/static/js/2.df64ee2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77a768d0.js",
-    "static/js/2.95dd5f23.chunk.js",
-    "static/css/main.a4608ef7.chunk.css",
-    "static/js/main.92b9ab06.chunk.js"
+    "static/js/2.df64ee2e.chunk.js",
+    "static/css/main.2a408519.chunk.css",
+    "static/js/main.e7bb8b54.chunk.js"
   ]
 }

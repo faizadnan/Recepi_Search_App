@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Recepi_Search_App/static/css/main.55ce5953.chunk.css",
-    "main.js": "/Recepi_Search_App/static/js/main.efda959e.chunk.js",
-    "main.js.map": "/Recepi_Search_App/static/js/main.efda959e.chunk.js.map",
+    "main.css": "/Recepi_Search_App/static/css/main.638badfd.chunk.css",
+    "main.js": "/Recepi_Search_App/static/js/main.6cb0e961.chunk.js",
+    "main.js.map": "/Recepi_Search_App/static/js/main.6cb0e961.chunk.js.map",
     "runtime-main.js": "/Recepi_Search_App/static/js/runtime-main.77a768d0.js",
     "runtime-main.js.map": "/Recepi_Search_App/static/js/runtime-main.77a768d0.js.map",
     "static/js/2.161b2189.chunk.js": "/Recepi_Search_App/static/js/2.161b2189.chunk.js",
     "static/js/2.161b2189.chunk.js.map": "/Recepi_Search_App/static/js/2.161b2189.chunk.js.map",
     "index.html": "/Recepi_Search_App/index.html",
-    "static/css/main.55ce5953.chunk.css.map": "/Recepi_Search_App/static/css/main.55ce5953.chunk.css.map",
+    "static/css/main.638badfd.chunk.css.map": "/Recepi_Search_App/static/css/main.638badfd.chunk.css.map",
     "static/js/2.161b2189.chunk.js.LICENSE.txt": "/Recepi_Search_App/static/js/2.161b2189.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77a768d0.js",
     "static/js/2.161b2189.chunk.js",
-    "static/css/main.55ce5953.chunk.css",
-    "static/js/main.efda959e.chunk.js"
+    "static/css/main.638badfd.chunk.css",
+    "static/js/main.6cb0e961.chunk.js"
   ]
 }
